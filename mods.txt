@@ -37,4 +37,4 @@ https://thunderstore.io/package/download/SteamBlizzard/Tyler1Hidden/1.0.0/
 https://thunderstore.io/package/download/Magic_Wesley/Wesleys_Enemies/1.1.9/
 https://thunderstore.io/package/download/x753_REPO/CustomColors/1.1.1/
 https://thunderstore.io/package/download/JacuJ/YippeeDweller/1.0.2/
-https://thunderstore.io/package/download/Zehs/ExtractionPointConfirmButton/1.0.1/
+https://thunderstore.io/package/download/Zehs/ExtractionPointConfirmButton/1.1.0/

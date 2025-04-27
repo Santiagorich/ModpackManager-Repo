@@ -1,0 +1,28 @@
+{
+  "name": "vals-mod-manager",
+  "version": "1.0.0",
+  "description": "Manages BepInEx mods from GitHub modpacks",
+  "main": "download_mods.js",
+  "bin": "download_mods.js",
+  "scripts": {
+    "build": "pkg ."
+  },
+  "keywords": ["mod", "bepinex", "thunderstore", "manager","val"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.0.0",
+    "unzipper": "^0.10.0"
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/unzipper/**/*",
+      "node_modules/axios/**/*"
+    ],
+    "targets": [
+      "node20-win-x64",
+      "node20-linux-x64"
+    ],
+    "outputPath": "."
+  }
+}
