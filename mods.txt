@@ -38,3 +38,4 @@ https://thunderstore.io/package/download/Magic_Wesley/Wesleys_Enemies/1.1.9/
 https://thunderstore.io/package/download/x753_REPO/CustomColors/1.1.1/
 https://thunderstore.io/package/download/JacuJ/YippeeDweller/1.0.2/
 https://thunderstore.io/package/download/Zehs/ExtractionPointConfirmButton/1.1.0/
+https://thunderstore.io/package/download/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/1.0.1/
