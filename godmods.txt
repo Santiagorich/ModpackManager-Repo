@@ -4,6 +4,7 @@ https://gcdn.thunderstore.io/live/repository/packages/nickklmao-REPOConfig-1.2.2
 https://gcdn.thunderstore.io/live/repository/packages/GalaxyMods-MoreShopItems-1.3.3.zip
 https://gcdn.thunderstore.io/live/repository/packages/Zehs-REPOLib-2.0.1.zip
 https://gcdn.thunderstore.io/live/repository/packages/BULLETBOT-MoreUpgrades-1.4.8.zip
+https://gcdn.thunderstore.io/live/repository/packages/BlueAmulet-REPONetworkTweaks-1.0.3.zip
 https://gcdn.thunderstore.io/live/repository/packages/eth9n-Mimic-1.1.6.zip
 https://gcdn.thunderstore.io/live/repository/packages/PxntxrezStudio-No_Save_Delete-1.2.4.zip
 https://gcdn.thunderstore.io/live/repository/packages/x753_REPO-CustomColors-1.1.1.zip
