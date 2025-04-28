@@ -10,6 +10,7 @@ https://gcdn.thunderstore.io/live/repository/packages/x753_REPO-CustomColors-1.1
 https://gcdn.thunderstore.io/live/repository/packages/Zehs-LethalCompanyValuables-1.2.1.zip
 https://gcdn.thunderstore.io/live/repository/packages/Magic_Wesley-Wesleys_Valuables-1.0.3.zip
 https://gcdn.thunderstore.io/live/repository/packages/loaforc-loaforcsSoundAPI-2.0.6.zip
+https://gcdn.thunderstore.io/live/repository/packages/BlueAmulet-REPO_HD-1.0.3.zip
 https://gcdn.thunderstore.io/live/repository/packages/VyrusGames-Puppet-1.1.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/ColtG5-BoomboxCart-1.1.1.zip
 https://gcdn.thunderstore.io/live/repository/packages/TitanVortex-BigNuke-1.0.1.zip
