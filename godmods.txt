@@ -37,7 +37,6 @@ https://gcdn.thunderstore.io/live/repository/packages/Rangerbb275-Rifle-2.1.1.zi
 https://gcdn.thunderstore.io/live/repository/packages/Cronchy-DeathHeadHopper-2.0.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/Zehs-ExtractionPointConfirmButton-1.1.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/Spoopylocal-Lethal_Plushies-1.0.5.zip
-https://gcdn.thunderstore.io/live/repository/packages/Yuckers-Unique_Potions-0.6.3.zip
 https://gcdn.thunderstore.io/live/repository/packages/Nikki-AbioticFactorValuables-1.0.2.zip
 https://gcdn.thunderstore.io/live/repository/packages/GarStudios-MINEMONSTERS-1.0.3.zip
 https://gcdn.thunderstore.io/live/repository/packages/LandoZor-StinkyPaintingReplacement-1.1.0.zip
@@ -78,7 +77,6 @@ https://gcdn.thunderstore.io/live/repository/packages/SNEUS_STUDIO-RETEMINATOR-1
 https://gcdn.thunderstore.io/live/repository/packages/DaXcess-FixPluginTypesSerialization-1.0.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/ErrorJan-FixHaulCalculation-1.0.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/PaintedThornStudios-PaintedUtils-1.1.0.zip
-https://gcdn.thunderstore.io/live/repository/packages/Lunoid-REPO_Alchemy-1.1.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/Kistras-CustomDiscoverStateLib-1.0.1.zip
 https://gcdn.thunderstore.io/live/repository/packages/Tolian-Tolian_Levels-0.2.0.zip
 https://gcdn.thunderstore.io/live/repository/packages/Maygik-MoreHeadUtilities-1.0.6.zip
